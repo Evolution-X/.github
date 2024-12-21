@@ -1,4 +1,4 @@
-![Evolution X](https://github.com/Evolution-X/manifest/raw/udc/Banner.png)
+![Evolution X](https://github.com/Evolution-X/manifest/raw/vic/Banner.png)
 
 [![Download Evolution X](https://img.shields.io/sourceforge/dm/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files)[![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://evolution-x.org/download)
 
@@ -13,19 +13,17 @@ Evolution X aims to provide users with a Pixel-like feel at first glance, with a
 - Support for numerous Android devices
 
 ## Currently supported Android versions
-- Android 15
+- Android 15 QPR1
 - Android 14 QPR3
 
 ## Important Links
 - [Manifest](https://github.com/Evolution-X/manifest)
 - [Devices organization](https://github.com/Evolution-X-Devices)
-- [Officially supported devices list](https://github.com/Evolution-X/OTA/tree/udc/builds)
-- [Build changelogs](https://github.com/Evolution-X/OTA/tree/udc/changelogs)
+- [Officially supported devices list](https://github.com/Evolution-X/OTA/tree/vic/builds)
+- [Build changelogs](https://github.com/Evolution-X/OTA/tree/vic/changelogs)
 
 ## Assist the Evolution X project by donating
-- [GoFundMe](https://www.gofundme.com/f/helping-the-rom-devs)
-- [Linktree](https://linktr.ee/joeyhuab)
-- [PayPal (Joey - Lead Developer & Founder)](https://PayPal.me/JoeyHuab)
+- [Linktree (Joey - Lead Developer & Founder)](https://linktr.ee/joeyhuab)
 - [PayPal (Anierin - Co Developer & Co Founder)](https://PayPal.me/AnierinB)
 
 ## Apply for maintainership
