@@ -13,8 +13,8 @@ Evolution X aims to provide users with a Pixel-like feel at first glance, with a
 - Support for numerous Android devices
 
 ## Currently supported Android versions
-- Android 15 QPR1
-- Android 14 QPR3
+- [Android 15](https://github.com/Evolution-X/manifest/commits/vic/)
+- [Android 14](https://github.com/Evolution-X/manifest/commits/udc/)
 
 ## Important Links
 - [Manifest](https://github.com/Evolution-X/manifest)
