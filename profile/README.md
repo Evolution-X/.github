@@ -13,7 +13,7 @@ Evolution X aims to provide users with a Pixel-like feel at first glance, with a
 - Support for numerous Android devices
 
 ## Currently supported Android versions
-- [Android 15 QPR2, April 2025 patches](https://github.com/Evolution-X/manifest/commits/vic)
+- [Android 15 QPR2, May 2025 patches](https://github.com/Evolution-X/manifest/commits/vic)
 - [Android 15 QPR1, April 2025 patches](https://github.com/Evolution-X/manifest/commits/vic-qpr1)
 - [Android 14, April 2025 patches](https://github.com/Evolution-X/manifest/commits/udc)
 
