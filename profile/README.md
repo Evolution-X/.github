@@ -18,8 +18,12 @@ Evolution X is a custom Android ROM that aims to replicate the Google Pixel expe
 ## Important Links
 - [Manifest](https://github.com/Evolution-X/manifest)
 - [Devices organization](https://github.com/Evolution-X-Devices)
-- [Officially supported devices list](https://github.com/Evolution-X/OTA/tree/vic/builds)
-- [Build changelogs](https://github.com/Evolution-X/OTA/tree/vic/changelogs)
+- [Officially supported devices](https://evolution-x.org/devices)
+- [Features](https://evolution-x.org/features)
+- [Blog](https://evolution-x.org/blog)
+- [Team](https://evolution-x.org/team)
+- [wiki](https://wiki.evolution-x.org)
+- [Downloads](https://cdn.evolution-x.org)
 
 ## Assist the Evolution X project by donating
 - [Linktree (Joey - Lead Developer & Founder)](https://linktr.ee/joeyhuab)
