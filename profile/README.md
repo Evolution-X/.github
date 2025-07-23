@@ -1,10 +1,8 @@
 ![Evolution X](https://github.com/Evolution-X/manifest/raw/vic/Banner.png)
 
-[![Download Evolution X](https://img.shields.io/sourceforge/dm/evolution-x.svg)](https://sourceforge.net/projects/evolution-x/files)[![Download Evolution X](https://img.shields.io/sourceforge/dt/evolution-x.svg)](https://evolution-x.org/download)
-
 # Evolution X
 
-Evolution X aims to provide users with a Pixel-like feel at first glance, with additional features at their disposal!
+Evolution X is a custom Android ROM that aims to replicate the Google Pixel experience, with added customization. Based on the [LineageOS](https://github.com/LineageOS/) Project.
 
 - Pixel exclusive features
 - Additional customization
