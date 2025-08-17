@@ -11,9 +11,9 @@ Evolution X is a custom Android ROM that aims to replicate the Google Pixel expe
 - Support for numerous Android devices
 
 ## Currently supported Android versions
-- [Android 16, July 2025 patches](https://github.com/Evolution-X/manifest/commits/bka)
-- [Android 15, June 2025 patches](https://github.com/Evolution-X/manifest/commits/vic)
-- [Android 14, July 2025 patches](https://github.com/Evolution-X/manifest/commits/udc)
+- [Android 16, August 2025 patches](https://github.com/Evolution-X/manifest/commits/bka)
+- [Android 15, August 2025 patches](https://github.com/Evolution-X/manifest/commits/vic)
+- [Android 14, August 2025 patches](https://github.com/Evolution-X/manifest/commits/udc)
 
 ## Important Links
 - [Manifest](https://github.com/Evolution-X/manifest)
