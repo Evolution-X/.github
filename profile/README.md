@@ -4,7 +4,7 @@
 
 Evolution X is a custom Android ROM that aims to replicate the Google Pixel experience, with added customization. Based on the [LineageOS](https://github.com/LineageOS/) Project.
 
-The rebase on top of LineageOS, was initiated/done by Anierin Bliss and all versions 9.x and onward are based on such. 
+The rebase on top of LineageOS was initiated/done by Anierin Bliss and all versions 9.x and onward are based on such. 
 
 - Pixel exclusive features
 - Additional customization
