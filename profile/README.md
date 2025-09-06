@@ -4,6 +4,8 @@
 
 Evolution X is a custom Android ROM that aims to replicate the Google Pixel experience, with added customization. Based on the [LineageOS](https://github.com/LineageOS/) Project.
 
+The rebase on top of LineageOS, was initiated/done by Anierin Bliss and all versions 9.x and onward are based on such. 
+
 - Pixel exclusive features
 - Additional customization
 - Frequent releases
@@ -26,9 +28,8 @@ Evolution X is a custom Android ROM that aims to replicate the Google Pixel expe
 - [Downloads](https://cdn.evolution-x.org)
 
 ## Assist the Evolution X project by donating
-- [Linktree (Joey - Lead Developer & Founder)](https://linktr.ee/joeyhuab)
 - [PayPal (Anierin - Co Developer & Co Founder)](https://PayPal.me/AnierinB)
 
 ## Apply for maintainership
 
-If you are interested in applying for a maintainer role for your device, please contact [Joey](https://github.com/joeyhuab) or [Anierin](https://github.com/AnierinBliss) via our [discord server](https://discord.gg/Evolution-X).
+If you are interested in applying for a maintainer role for your device, please contact [Anierin](https://github.com/AnierinBliss) via our [discord server](https://discord.gg/Evolution-X).
