@@ -27,11 +27,10 @@ Evolution X blends the best of Pixel with feature-rich customization:
 
 We maintain multiple branches of the ROM:
 
-- [Android 16 QPR2 — Jan 2026 patches](https://github.com/Evolution-X/manifest/commits/bq2)
-- [Android 16 QPR1 — Jan 2026 patches](https://github.com/Evolution-X/manifest/commits/bq1)
-- [Android 16 QPR0 — Jan 2026 patches](https://github.com/Evolution-X/manifest/commits/bka)
-- [Android 15 — Jan 2026 patches](https://github.com/Evolution-X/manifest/commits/vic)
-- [Android 14 — Jan 2026 patches](https://github.com/Evolution-X/manifest/commits/udc)
+- [Android 16 QPR2 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/bq2)
+- [Android 16 QPR1 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/bka)
+- [Android 15 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/vic)
+- [Android 14 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/udc)
 
 ---
 
@@ -53,7 +52,7 @@ We maintain multiple branches of the ROM:
 
 Flashing custom ROMs always carries risk, especially when the project is **closed source** or lacks public accountability.
 
-Some ROMs — including **Project Elixir** and **DerpFest (qpr2 branch)** — do not provide full source availability or independent review, making it difficult for users to verify what is actually running on their devices.
+Some ROMs — including **Project Elixir** and **DerpFest** — do not provide full source availability or independent review, making it difficult for users to verify what is actually running on their devices.
 
 Without publicly auditable code, users cannot easily confirm:
 - How system components are implemented
