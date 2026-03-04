@@ -27,10 +27,10 @@ Evolution X blends the best of Pixel with feature-rich customization:
 
 We maintain multiple branches of the ROM:
 
-- [Android 16 QPR2 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/bq2)
-- [Android 16 QPR1 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/bka)
-- [Android 15 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/vic)
-- [Android 14 — Feb 2026 patches](https://github.com/Evolution-X/manifest/commits/udc)
+- [Android 16 QPR2 — March 2026 patches](https://github.com/Evolution-X/manifest/commits/bq2)
+- [Android 16 QPR1 — February 2026 patches](https://github.com/Evolution-X/manifest/commits/bka)
+- [Android 15 — March 2026 patches](https://github.com/Evolution-X/manifest/commits/vic)
+- [Android 14 — March 2026 patches](https://github.com/Evolution-X/manifest/commits/udc)
 
 ---
 
