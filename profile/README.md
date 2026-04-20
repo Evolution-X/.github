@@ -1,36 +1,60 @@
+<div align="center">
+
 ![Evolution X Banner](https://github.com/Evolution-X/manifest/raw/bq2/Banner.png)
 
-# 🚀 Evolution X
-
-**Evolution X** is a custom Android ROM focused on delivering a polished **Google Pixel experience** plus powerful **customization features** — all based on [LineageOS](https://github.com/LineageOS).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Pixel+features.+AOSP+foundation.;Your+device%2C+evolved.;Android+14+%7C+15+%7C+16+supported.)](https://git.io/typing-svg)
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/evolution-x-670512508871639041)
 [![Telegram](https://img.shields.io/badge/Telegram-%2301A9E0.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/EvolutionXOfficial)
 [![Telegram Chat](https://img.shields.io/badge/Chat-%2301A9E0.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/EvolutionX)
 [![Website](https://img.shields.io/badge/Website-%23FF6C37.svg?&style=flat-square&logo=googlechrome&logoColor=white)](https://evolution-x.org)
+[![Stars](https://img.shields.io/github/stars/Evolution-X/manifest?style=flat-square&color=6C63FF&label=Stars)](https://github.com/Evolution-X/manifest/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Evolution-X/manifest?style=flat-square&color=00D4AA&label=Last+Commit)](https://github.com/Evolution-X/manifest/commits)
+
+</div>
 
 ---
 
 ## 📌 What Makes Evolution X Great
 
-Evolution X blends the best of Pixel with feature-rich customization:
+Evolution X blends the best of Pixel with feature-rich customization, built on a clean LineageOS foundation.
 
-- 🌟 Pixel-exclusive features (wallpapers, sound effects, clock styles, unlimited photos storage, etc.)
-- 🛠️ Robust customization (Freeform windows, Sidebar, App Lock, UI tweaks)
-- 🔁 Regular stable releases with security patches
-- 🧠 Active community support
-- 📱 Wide device support across Android 14/15/16 branches
+<table>
+  <tr>
+    <td>🌟 <b>Pixel Exclusive</b></td>
+    <td>Wallpapers, clock styles, sound effects, unlimited Google Photos storage & more</td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Deep Customization</b></td>
+    <td>Freeform windows, Sidebar, App Lock, and extensive UI tweaks</td>
+  </tr>
+  <tr>
+    <td>🔁 <b>Regular Updates</b></td>
+    <td>Stable releases with monthly Android security patches</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>Active Community</b></td>
+    <td>Dedicated support across Discord and Telegram</td>
+  </tr>
+  <tr>
+    <td>📱 <b>Wide Device Support</b></td>
+    <td>Android 14, 15, and 16 branches — 100+ supported devices</td>
+  </tr>
+  <tr>
+    <td>🔓 <b>Open Source</b></td>
+    <td>Fully auditable code — know exactly what's running on your device</td>
+  </tr>
+</table>
 
 ---
 
 ## 📱 Supported Android Versions
 
-We maintain multiple branches of the ROM:
-
-- [Android 16 QPR2 — March 2026 patches](https://github.com/Evolution-X/manifest/commits/bq2)
-- [Android 16 QPR1 — February 2026 patches](https://github.com/Evolution-X/manifest/commits/bka)
-- [Android 15 — March 2026 patches](https://github.com/Evolution-X/manifest/commits/vic)
-- [Android 14 — March 2026 patches](https://github.com/Evolution-X/manifest/commits/udc)
+| Branch | Security Patch | Manifest |
+|--------|---------------|----------|
+| 🟣 Android 16 QPR2 | April 2026 | [bq2](https://github.com/Evolution-X/manifest/commits/bq2) |
+| 🟢 Android 15 | April 2026 | [vic](https://github.com/Evolution-X/manifest/commits/vic) |
+| ⚪ Android 14 | April 2026 | [udc](https://github.com/Evolution-X/manifest/commits/udc) |
 
 ---
 
@@ -48,51 +72,64 @@ We maintain multiple branches of the ROM:
 
 ---
 
-## 🔐 Security & Transparency Notice
+## 🚀 Getting Started
 
-Flashing custom ROMs always carries risk, especially when the project is **closed source** or lacks public accountability.
+<details>
+<summary><b>How to flash Evolution X on your device</b></summary>
 
-Some ROMs — including **Project Elixir** and **DerpFest** — do not provide full source availability or independent review, making it difficult for users to verify what is actually running on their devices.
+<br>
 
-Without publicly auditable code, users cannot easily confirm:
-- How system components are implemented
-- Whether sensitive data is handled safely
-- If unintended or malicious behavior exists
+1. Check if your device is supported at [evolution-x.org/devices](https://evolution-x.org/devices)
+2. Download the latest build from [cdn.evolution-x.org](https://cdn.evolution-x.org)
+3. Boot into a custom recovery (e.g. TWRP or OrangeFox)
+4. Flash the ROM zip, optionally flash GApps if not included
+5. Wipe cache/dalvik and reboot
 
-This can increase exposure to:
-- Privacy issues
-- Data leakage
-- Unauthorized access to personal information
+For detailed instructions, visit the **[Wiki](https://wiki.evolution-x.org)**.
 
-### Our recommendation:
-- ✅ Choose ROMs with publicly available source code
-- ✅ Review commits and development activity
-- ✅ Consider maintainer reputation and community trust
+> ⚠️ Always back up your data before flashing. Flashing a custom ROM will void your warranty.
 
-Transparency matters. Installing software you can’t inspect means placing full trust in the developer.
+</details>
+
+<details>
+<summary><b>Becoming a device maintainer</b></summary>
+
+<br>
+
+Interested in maintaining Evolution X for your device? Reach out on [Discord](https://discord.gg/evolution-x-670512508871639041) and contact **Onelots** or **Manidweep**.
+
+</details>
+
+---
+
+## 🔐 Security & Transparency
+
+Evolution X is **fully open source**. Every line of code is publicly available for review — from system components to build scripts. We believe users have the right to inspect what's running on their devices.
+
+When choosing a custom ROM, we recommend:
+
+- ✅ Verifying that source code is publicly available
+- ✅ Reviewing recent commit history and development activity
+- ✅ Checking maintainer reputation and community trust
 
 ---
 
 ## 💖 Support the Project
 
-If you find Evolution X useful, you can help contribute:
+If you find Evolution X useful, consider supporting the developers:
 
-- 🤝 **Open Collective**: [Fund core development](https://opencollective.com/evolution-x) 
-- 😊 **Donations**
-  - [Linktree (Joey — Lead Developer & Founder)](https://linktr.ee/joeyhuab)
-  - [PayPal (Anierin — Co-Developer & Co-Founder)](https://PayPal.me/AnierinB)
-
----
-
-## 🤝 Want to Contribute?
-
-Interested in becoming a **device maintainer** or helping with builds and support?
-Reach out on [**Discord**](https://discord.gg/evolution-x-670512508871639041) and contact Onelots or Manidweep.
+| Who | Link |
+|-----|------|
+| 🤝 Open Collective (core development) | [opencollective.com/evolution-x](https://opencollective.com/evolution-x) |
+| 😊 Joey — Lead Developer & Founder | [Linktree](https://linktr.ee/joeyhuab) |
+| 😊 Anierin — Co-Developer & Co-Founder | [PayPal](https://PayPal.me/AnierinB) |
 
 ---
+
+<div align="center">
 
 ### ⭐ Thanks for checking out Evolution X!
 
-Let’s keep **evolving Android together 🚀**
+**Let's keep evolving Android together 🚀**
 
----
+</div>
