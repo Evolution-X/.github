@@ -64,9 +64,9 @@ Evolution X blends the best of Pixel with feature-rich customization, built on a
 
 | Branch | Status | Security Patch | Manifest |
 |--------|--------|---------------|----------|
-| 🟣 **Android 16 QPR2** | ![Active](https://img.shields.io/badge/Active-6C63FF?style=flat-square) | April 2026 | [bq2](https://github.com/Evolution-X/manifest/commits/bq2) |
-| 🟢 **Android 15** | ![Active](https://img.shields.io/badge/Active-00D4AA?style=flat-square) | April 2026 | [vic](https://github.com/Evolution-X/manifest/commits/vic) |
-| ⚪ **Android 14** | ![Maintained](https://img.shields.io/badge/Maintained-888888?style=flat-square) | April 2026 | [udc](https://github.com/Evolution-X/manifest/commits/udc) |
+| 🟣 **Android 16 QPR2** | ![Active](https://img.shields.io/badge/Active-6C63FF?style=flat-square) | May 2026 | [bq2](https://github.com/Evolution-X/manifest/commits/bq2) |
+| 🟢 **Android 15** | ![Active](https://img.shields.io/badge/Active-00D4AA?style=flat-square) | May 2026 | [vic](https://github.com/Evolution-X/manifest/commits/vic) |
+| ⚪ **Android 14** | ![Active](https://img.shields.io/badge/Active-888888?style=flat-square) | May 2026 | [udc](https://github.com/Evolution-X/manifest/commits/udc) |
 
 </div>
 
