@@ -184,7 +184,6 @@ If you find Evolution X useful, consider supporting the developers:
 
 <div align="center">
 
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-Support%20the%20Project-6C63FF?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/evolution-x)
 [![Joey](https://img.shields.io/badge/Joey-Lead%20Developer-00D4AA?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/joeyhuab)
 
 </div>
