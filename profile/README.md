@@ -1,6 +1,6 @@
 <div align="center">
 
-![Evolution X Banner](https://github.com/Evolution-X/manifest/raw/bq2/Banner.png)
+![Evolution X Banner](https://github.com/Evolution-X/manifest/raw/bka/Banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Pixel+features.+AOSP+foundation.;Your+device%2C+evolved.;Built+for+those+who+demand+more.;Monthly+security+patches.+Always.;100%2B+devices+supported.;Open+source.+No+compromises.;Android+14+%7C+15+%7C+16.)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
   <a href="https://evolution-x.org"><img src="https://img.shields.io/badge/Website-evolution--x.org-FF6C37?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <br/>
   <a href="https://github.com/Evolution-X/manifest/stargazers"><img src="https://img.shields.io/github/stars/Evolution-X/manifest?style=flat-square&color=6C63FF&label=Stars"/></a>
-  <a href="https://github.com/Evolution-X/frameworks_base/commits/bq2"><img src="https://img.shields.io/github/last-commit/Evolution-X/frameworks_base/bq2?style=flat-square&color=00D4AA&label=Last+Commit"/></a>
+  <a href="https://github.com/Evolution-X/frameworks_base/commits/bka"><img src="https://img.shields.io/github/last-commit/Evolution-X/frameworks_base/bka?style=flat-square&color=00D4AA&label=Last+Commit"/></a>
   <a href="https://crowdin.com/project/Evolution_X"><img src="https://img.shields.io/badge/Crowdin-Translate-2E3340?style=flat-square&logo=crowdin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Evolution-X&style=flat-square&color=6C63FF&label=README+Views"/>
 </p>
@@ -64,9 +64,10 @@ Evolution X blends the best of Pixel with feature-rich customization, built on a
 
 | Branch | Status | Security Patch | Manifest |
 |--------|--------|---------------|----------|
-| 🟣 **Android 16 QPR2** | ![Active](https://img.shields.io/badge/Active-6C63FF?style=flat-square) | May 2026 | [bq2](https://github.com/Evolution-X/manifest/commits/bq2) |
-| 🟢 **Android 15** | ![Active](https://img.shields.io/badge/Active-00D4AA?style=flat-square) | May 2026 | [vic](https://github.com/Evolution-X/manifest/commits/vic) |
-| ⚪ **Android 14** | ![Active](https://img.shields.io/badge/Active-888888?style=flat-square) | May 2026 | [udc](https://github.com/Evolution-X/manifest/commits/udc) |
+| 🔵 **Android 17** | ![Active](https://img.shields.io/badge/WIP-FF6C37?style=flat-square) | June 2026 | [cnb](https://github.com/Evolution-X/manifest/commits/cnb) |
+| 🟣 **Android 16 QPR2** | ![Active](https://img.shields.io/badge/Active-6C63FF?style=flat-square) | June 2026 | [bka](https://github.com/Evolution-X/manifest/commits/bka) |
+| 🟢 **Android 15** | ![Active](https://img.shields.io/badge/Active-00D4AA?style=flat-square) | June 2026 | [vic](https://github.com/Evolution-X/manifest/commits/vic) |
+| ⚪ **Android 14** | ![Active](https://img.shields.io/badge/Active-888888?style=flat-square) | June 2026 | [udc](https://github.com/Evolution-X/manifest/commits/udc) |
 
 </div>
 
