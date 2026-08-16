@@ -22,7 +22,7 @@
 ---
 
 > ### 🔵 Current Focus: Android 17
-> Development is now centered on the **Android 17 (cnb)** branch. Expect the most active commits, newest features, and fastest fixes there — older branches remain maintained but move to a slower, stability-focused cadence.
+> Development is centered on the **Android 17 (`cnb`)** branch — new features, fixes, and device bring-up land there first. Android 16 (`bka`) and Android 15 (`vic`) remain actively maintained on a stability-focused cadence for the bulk of supported devices.
 
 ---
 
@@ -37,7 +37,7 @@ Evolution X blends the best of Pixel with feature-rich customization, built on a
   </tr>
   <tr>
     <td>🛠️ <b>Deep Customization</b></td>
-    <td>Freeform windows, Sidebar, App Lock, per-app volume, icon packs, font switching, and hundreds of UI tweaks</td>
+    <td>Freeform windows, Sidebar, App Lock, per-app volume, icon packs, font switching, and hundreds of UI tweaks — all configured through <a href="https://github.com/Evolution-X/packages_apps_Evolver"><b>Evolver</b></a>, our in-house settings app</td>
   </tr>
   <tr>
     <td>🔁 <b>Always Up To Date</b></td>
@@ -45,7 +45,7 @@ Evolution X blends the best of Pixel with feature-rich customization, built on a
   </tr>
   <tr>
     <td>🌍 <b>Translated by the Community</b></td>
-    <td>Evolution X is localized into dozens of languages by volunteers worldwide via Crowdin — making the ROM accessible to everyone</td>
+    <td>Localized into dozens of languages by volunteers worldwide via Crowdin — making the ROM accessible to everyone</td>
   </tr>
   <tr>
     <td>🧠 <b>Active Community</b></td>
@@ -69,12 +69,12 @@ Evolution X blends the best of Pixel with feature-rich customization, built on a
 
 | Branch | Status | Security Patch | Devices Supported | Manifest |
 |--------|--------|---------------|---------------------|----------|
-| 🔵 **Android 17** | ![Primary Focus](https://img.shields.io/badge/Primary%20Focus-FF6C37?style=flat-square) | July 2026 | 1 (early bring-up) | [cnb](https://github.com/Evolution-X/manifest/commits/cnb) |
-| 🟣 **Android 16 QPR2** | ![Maintained](https://img.shields.io/badge/Maintained-6C63FF?style=flat-square) | July 2026 | 72 | [bka](https://github.com/Evolution-X/manifest/commits/bka) |
-| 🟢 **Android 15** | ![Maintained](https://img.shields.io/badge/Maintained-00D4AA?style=flat-square) | July 2026 | 42 | [vic](https://github.com/Evolution-X/manifest/commits/vic) |
-| ⚪ **Android 14** | ![Legacy](https://img.shields.io/badge/Legacy-888888?style=flat-square) | July 2026 | 0 (no longer actively maintained) | [udc](https://github.com/Evolution-X/manifest/commits/udc) |
+| 🔵 **Android 17** | ![Primary Focus](https://img.shields.io/badge/Primary%20Focus-FF6C37?style=flat-square) | August 2026 | 3 (early bring-up) | [cnb](https://github.com/Evolution-X/manifest/commits/cnb) |
+| 🟣 **Android 16 QPR2** | ![Maintained](https://img.shields.io/badge/Maintained-6C63FF?style=flat-square) | August 2026 | 45 | [bka](https://github.com/Evolution-X/manifest/commits/bka) |
+| 🟢 **Android 15** | ![Maintained](https://img.shields.io/badge/Maintained-00D4AA?style=flat-square) | August 2026 | 3 | [vic](https://github.com/Evolution-X/manifest/commits/vic) |
+| ⚪ **Android 14** | ![Legacy](https://img.shields.io/badge/Legacy-888888?style=flat-square) | August 2026 | 0 (no longer actively maintained) | [udc](https://github.com/Evolution-X/manifest/commits/udc) |
 
-*Android 17 (cnb) is where new features, fixes, and device bring-up land first — device support is still ramping up there. Android 16 (bka) and Android 15 (vic) carry the bulk of actively maintained devices; Android 14 (udc) no longer has actively maintained device builds. Device counts reflect entries flagged `currently_maintained: true` in the [OTA builds directory](https://github.com/Evolution-X/OTA) for each branch — dropped/unmaintained devices are excluded.*
+*Device counts reflect entries flagged `currently_maintained: true` in the [OTA builds directory](https://github.com/Evolution-X/OTA) for each branch — dropped/unmaintained devices are excluded. Confirm current counts there before publishing, as they shift as devices land or drop.*
 
 </div>
 
@@ -99,6 +99,7 @@ Evolution X blends the best of Pixel with feature-rich customization, built on a
 |----------|------|
 | 📦 Manifest | https://github.com/Evolution-X/manifest |
 | 📦 Android 17 Manifest (cnb) | https://github.com/Evolution-X/manifest/tree/cnb |
+| ⚙️ Evolver (Settings App) | https://github.com/Evolution-X/packages_apps_Evolver |
 | 📁 Devices Org | https://github.com/Evolution-X-Devices |
 | 📱 Supported Devices | https://evolution-x.org/devices |
 | ✨ Features | https://evolution-x.org/features |
@@ -139,6 +140,19 @@ Interested in maintaining Evolution X for your device? We're especially looking 
 </details>
 
 <details>
+<summary><b>⚙️ Contributing to Evolver, our settings app</b></summary>
+
+<br>
+
+Most of the user-facing customization in Evolution X lives in **[Evolver](https://github.com/Evolution-X/packages_apps_Evolver)**, our settings app. If you're comfortable with Java/Kotlin and Android UI work, this is one of the most approachable places to start contributing — from small preference-screen cleanups to new Compose-based features.
+
+1. Fork [packages_apps_Evolver](https://github.com/Evolution-X/packages_apps_Evolver) and check the [`cnb`](https://github.com/Evolution-X/packages_apps_Evolver/commits/cnb) branch for the latest work
+2. Browse open issues or ask in [Discord](https://discord.gg/evolution-x-670512508871639041) for good first tasks
+3. Submit a pull request — Gerrit-style commit messages are appreciated
+
+</details>
+
+<details>
 <summary><b>🌍 Contributing translations</b></summary>
 
 <br>
@@ -167,9 +181,17 @@ Evolution X is localized by volunteers on **[Crowdin](https://crowdin.com/projec
 
 ## 👥 Contributors
 
+Evolution X is built by contributors across the entire org — manifest, frameworks, device trees, and **[Evolver](https://github.com/Evolution-X/packages_apps_Evolver)**, our settings app where most user-facing features take shape.
+
 <div align="center">
 
+**Core manifest & frameworks**
+
 [![Contributors](https://contrib.rocks/image?repo=Evolution-X/manifest&max=24&columns=12)](https://github.com/Evolution-X/manifest/graphs/contributors)
+
+**Evolver (Settings App)**
+
+[![Contributors](https://contrib.rocks/image?repo=Evolution-X/packages_apps_Evolver&max=24&columns=12)](https://github.com/Evolution-X/packages_apps_Evolver/graphs/contributors)
 
 </div>
 
